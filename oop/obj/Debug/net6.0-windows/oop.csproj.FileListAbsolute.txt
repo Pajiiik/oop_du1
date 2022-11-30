@@ -1,0 +1,17 @@
+C:\Users\stulh\OneDrive\Plocha\oop\oop\bin\Debug\net6.0-windows\oop.exe
+C:\Users\stulh\OneDrive\Plocha\oop\oop\bin\Debug\net6.0-windows\oop.deps.json
+C:\Users\stulh\OneDrive\Plocha\oop\oop\bin\Debug\net6.0-windows\oop.runtimeconfig.json
+C:\Users\stulh\OneDrive\Plocha\oop\oop\bin\Debug\net6.0-windows\oop.dll
+C:\Users\stulh\OneDrive\Plocha\oop\oop\bin\Debug\net6.0-windows\oop.pdb
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\oop.csproj.AssemblyReference.cache
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\oop.Form1.resources
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\oop.csproj.GenerateResource.cache
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\oop.AssemblyInfoInputs.cache
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\oop.AssemblyInfo.cs
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\oop.csproj.CoreCompileInputs.cache
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\oop.dll
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\refint\oop.dll
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\oop.pdb
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\oop.genruntimeconfig.cache
+C:\Users\stulh\OneDrive\Plocha\oop\oop\obj\Debug\net6.0-windows\ref\oop.dll
